@@ -1,0 +1,15 @@
+// Copyright 2024 dah4k
+// SPDX-License-Identifier: MIT-0
+
+= PopGrep
+:!webfonts:
+
+Benchmarking `popgrep` examples from _Perl Cookbook 2nd Ed. (2003)_
+versus other implementations.
+
+
+== References
+
+* Tom Christiansen and Nathan Torkington,
+  https://resources.oreilly.com/examples/9780596003135[Perl Cookbook 2nd Edition], O'Reilly Media Inc., 9780596003135, 2003.
+
