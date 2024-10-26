@@ -13,3 +13,7 @@ versus other implementations.
 * Tom Christiansen and Nathan Torkington,
   https://resources.oreilly.com/examples/9780596003135[Perl Cookbook 2nd Edition], O'Reilly Media Inc., 9780596003135, 2003.
 
+* John Milton,
+  https://www.gutenberg.org/cache/epub/26/pg26.txt[Paradise Lost],
+  Illinois: Project Gutenberg (Credits: Dr. Joseph Raben), 2022.
+
